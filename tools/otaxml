@@ -5,6 +5,7 @@
 . $ANDROID_BUILD_TOP/vendor/candy5/tools/colors
 
 export otaxml=ota.xml
+export $USER=${CANDY_DEVELOPER}
 
 if [ -f $otaxml ];
 then

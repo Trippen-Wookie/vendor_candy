@@ -32,9 +32,8 @@
 	<!--Official Website-->
 		<WebsiteURL>http://the-candy-shop.co/</WebsiteURL>
 
-	<!-- Your Donate URL (Please use goo.gl to shorten to avoid CDATA requirement -
-	  Default: http://goo.gl/k6jPX9 will go to Shaun)-->
-		<DonateURL>CANDY_DONATE</DonateURL>
+	<!--I Had To Hurry Up Matt :) -->
+		<DonateURL>https://goo.gl/g9w6ui</DonateURL>
 
 	<!--Put the changelog here... Use DaringFireball's Markdown to format it-->
 	<!--Surround special characters with the CDATA tags or your XML will NOT parse-->
