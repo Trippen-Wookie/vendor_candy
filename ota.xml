@@ -4,7 +4,7 @@
 		<RomName>CANDY_OTA_ROM</RomName>
 
 	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
-		<VersionName>CANDY_OTA_VERNAME</VersionName>
+		<VersionName>candy5-CANDY_OTA_VERNAME</VersionName>
 
 	<!--THIS NEEDS TO BE EDITED EVERY NEW UPDATE-->
 		<VersionNumber type="integer">CANDY_OTA_VERSION</VersionNumber>
